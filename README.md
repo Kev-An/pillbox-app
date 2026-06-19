@@ -18,9 +18,16 @@ Cross-platform medication reminder application built with React Native and Expo.
 - MongoDB
 - Firebase Cloud Messaging
   
-##Screenshots
+## Screenshots
 
-screenshots/Home Screen.jpeg
-screenshots/Login Screen.jpeg
-screenshots/Meds Screen.jpeg
-screenshots/Onboarding Screen.jpeg
+### Home Screen
+![Home Screen](screenshots/Home%20Screen.jpeg)
+
+### Login Screen
+![Login Screen](screenshots/Login%20Screen.jpeg)
+
+### Meds Screen
+![Meds Screen](screenshots/Meds%20Screen.jpeg)
+
+### Onboarding Screen
+![Onboarding Screen](screenshots/Onboarding%20Screen.jpeg)
