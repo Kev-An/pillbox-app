@@ -21,11 +21,11 @@ Cross-platform medication reminder application built with React Native and Expo.
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/onboarding-screen.jpeg" width="220">
-  <img src="screenshots/login-screen.jpeg" width="220">
+  <img src="screenshots/)Onboarding%20Screen.jpeg" width="220">
+  <img src="screenshots/Login%20Screen.jpeg" width="220">
 </p>
 
 <p align="center">
-  <img src="screenshots/home-screen.jpeg" width="220">
-  <img src="screenshots/meds-screen.jpeg" width="220">
+  <img src="screenshots/Home%20Screen.jpeg" width="220" />
+  <img src="screenshots/Login%20Screen.jpeg" width="220" />
 </p>
