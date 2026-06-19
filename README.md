@@ -6,7 +6,7 @@ Cross-platform medication reminder application built with React Native and Expo.
 
 - Medication scheduling
 - Push notifications (FCM)
-- Medication history tracking
+- Medication histor.jpegy tracking
 - JWT Authentication
 - MongoDB backend
 
@@ -17,3 +17,10 @@ Cross-platform medication reminder application built with React Native and Expo.
 - Node.js
 - MongoDB
 - Firebase Cloud Messaging
+  
+##Screenshots
+
+screenshots/Home Screen.jpeg
+screenshots/Login Screen.jpeg
+screenshots/Meds Screen.jpeg
+screenshots/Onboarding Screen.jpeg
