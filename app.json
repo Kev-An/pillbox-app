@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "PillBox",
+    "slug": "pillbox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#E9F7FF",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E9F7FF"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
